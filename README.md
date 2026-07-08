@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:141E30&height=280&section=header&text=Hi%20There,%20I'm%20Ishana%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20@%20IEM%20Kolkata%20|%20Building%20one%20bug%20at%20a%20time&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:141E30&height=280&section=header&text=ISHANA%20CHATTERJEE%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Curate.%20Repeat.%20|%20Turning%20Ideas%20into%20Code,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ishana+Chatterjee+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;BCA+Student+%40+IEM+Kolkata;Turning+%3Ccoffee%2F%3E+into+%3Ccode%2F%3E+since+forever;Debugging+life%2C+one+semicolon+at+a+time;Currently+exploring+the+world+of+AI+%26+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ishana+Chatterjee+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Student+%40+IEM+Kolkata;Turning+%3Ccoffee%2F%3E+into+%3Ccode%2F%3E+since+forever;Debugging+life%2C+one+semicolon+at+a+time;Currently+exploring+the+world+of+AI+%26+ML" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ```yaml
 Name:        Ishana Chatterjee
 Location:    Kolkata, India 🇮🇳
-Education:   BCA @ Institute of Engineering & Management (IEM)
+Education:   Student @ Institute of Engineering & Management (IEM)
 Role:        Aspiring Software Developer
 Currently:   Leveling up in Python, C, C++ & Java
 Fun Fact:    My code compiles on the first try... occasionally 😅
