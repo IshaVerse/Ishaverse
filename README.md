@@ -103,8 +103,6 @@ Motto:       "Code • Learn • Build • Repeat 🚀"
 
 <img src="https://raw.githubusercontent.com/IshaVerse/IshaVerse/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-<sub>👆 This animates automatically once the Snake GitHub Action (setup steps below) runs on your repo</sub>
-
 </div>
 
 ## ✍️ Latest Blog / Articles
@@ -145,9 +143,9 @@ Motto:       "Code • Learn • Build • Repeat 🚀"
 
 <div align="center">
 
-### _"Code • Learn • Build • Repeat 🚀"_
-
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+
+🤎 I hope you enjoyed exploring my little corner of GitHub.
 
 </div>
 
