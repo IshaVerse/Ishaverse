@@ -16,12 +16,11 @@
 
 ```yaml
 Name:        Ishana Chatterjee
-Location:    Kolkata, India 🇮🇳
+Location:    Kolkata, India
 Education:   Student @ Institute of Engineering & Management (IEM)
 Role:        Aspiring Software Developer
 Currently:   Leveling up in Python, C, C++ & Java
 Fun Fact:    My code compiles on the first try... occasionally 😅
-Motto:       "Code • Learn • Build • Repeat 🚀"
 ```
 
 ### 🌱 What I'm Up To
